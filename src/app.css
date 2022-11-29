@@ -1,0 +1,12 @@
+.main-page {
+    text-align: center;
+}
+
+.link {
+    color: rgb(67, 67, 215);
+    font-style: italic;
+    cursor: pointer;
+}
+.link:hover {
+    text-decoration: underline;
+}
