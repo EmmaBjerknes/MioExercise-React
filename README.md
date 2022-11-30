@@ -16,7 +16,7 @@ Här är ett exempel på hur en lösning skulle kunna se ut: https://genuine-fen
 Klona projektet
 
 ```bash
-  git clone https://github.com/alexander-mio/Mio.ReactExercise.git
+  git clone https://github.com/mio-ab/Mio.ReactExercise.git
 ```
 
 Navigera till projektmappen
