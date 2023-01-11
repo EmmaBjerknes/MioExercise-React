@@ -15,7 +15,7 @@ Här är ett exempel på hur en lösning skulle kunna se ut: https://genuine-fen
     4. Om en kampanj är satt på en produkt så ska detta kampanjnamn visas samt en beräkning av nytt pris baserat på kampanjens procentrabatt.
     5. En check kommer behöva finnas för följande:
       * Ett produktpris får inte understiga 0.
-      * Visa inte produkt om bildlänk är 'null'.
+      * Visa inte produkt om bild inte finns.
       * Avrunda priser som har decimaler.
 
 ## Starta applikationen lokalt
