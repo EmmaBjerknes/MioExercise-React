@@ -3,13 +3,20 @@
 Denna övning gick ut på att skapa en React app som presenterar produktdata enligt kravlistan nedan.
 Produktdatan hämtades från den lokala json-servern
 
+:star: Detta är mitt första React projekt! :star:
+
 ## Tekniker jag har använt:
 - Javascript  
-- HTML  
+- React 
 - Styled Components
 - Fetch API
 
-## Kravlista:
+## Screenshots från min första version
+<img src ="https://user-images.githubusercontent.com/121795531/233323713-9bc53dba-6036-4f62-b559-396258fdd51c.jpg" height="400px"> <img src ="https://user-images.githubusercontent.com/121795531/233324017-ef604a0c-0c12-48dd-860c-9e80f3b31ea6.jpg" height="400px"> 
+<img src ="https://user-images.githubusercontent.com/121795531/233324007-6e039dc1-a5f5-40df-b2ad-4c205489c35e.jpg" height="400px">
+
+
+### Kravlista:
 
     1. Det ska finnas en vy för att se alla produkter.
     2. Det ska finnas ett sök som går på produktnamn.
@@ -21,7 +28,7 @@ Produktdatan hämtades från den lokala json-servern
       * Visa inte produkt om bild inte finns.
       * Avrunda priser som har decimaler.
 
-## Starta applikationen lokalt
+### Starta applikationen lokalt
 
 Klona projektet
 
@@ -32,7 +39,7 @@ Klona projektet
 Navigera till projektmappen
 
 ```bash
-  cd Mio.ReactExercise
+  cd MioExercise-React
 ```
 
 Installera dependencies
@@ -48,7 +55,7 @@ Starta servern
 ```
 
 
-## API Referens
+### API Referens
 
 #### Hämta alla produkter
 
